@@ -20,7 +20,7 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504)](https://github.com/Giyong8504/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504)](https://github.com/Giyong8504)
 
 
 

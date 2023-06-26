@@ -15,12 +15,17 @@
   <img src="https://img.shields.io/badge/eclipseide-6DB33F?style=flat-square&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<br>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giyong8504)](https://github.com/Giyong8504)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504)](https://github.com/Giyong8504)
 </div>
 <br>
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504)](https://github.com/Giyong8504)
 
 
 

@@ -12,13 +12,11 @@
   <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/eclipseide-6DB33F?style=flat-square&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
 <br>
 
 ![Giyong8504 github stats](https://github-readme-stats.vercel.app/api?username=Giyong8504&show_icons=true)
-[![Giyong8504 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Giyong8504)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504&layout=compact)](https://github.com/Giyong8504/github-readme-stats)
 
 
 <!--

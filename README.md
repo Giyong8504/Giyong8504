@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-
-
 <br>
 
 ### 🛠️ Tools 🛠️
@@ -18,18 +16,8 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giyong8504)](https://github.com/Giyong8504)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504)](https://github.com/Giyong8504)
-</div>
-<br>
-<br>
-
-
-
-
-
-
+![Giyong8504 github stats](https://github-readme-stats.vercel.app/api?username=Giyong8504&show_icons=true)
+[![Giyong8504 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Giyong8504&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Giyong8504)
 
 
 <!--

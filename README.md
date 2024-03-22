@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" style="height : 20px; width : 50px; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" style="height : 20px; width : 70px; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/elasticbeanstalk-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="height : 20px; width : 60px; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+
 </div>
 <br>
 
@@ -17,6 +19,7 @@
   <img src="https://img.shields.io/badge/eclipseide-6DB33F?style=flat-square&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height : 20px; width : 50px; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" style="height : 20px; width : 70px; margin-left : 10px; margin-right : 10px;"/>
 <br>
 <br>
 
